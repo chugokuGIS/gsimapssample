@@ -1,0 +1,22 @@
+{
+    "layers":[
+        "type":LayerGroup",
+        "title":"地球地図日本",
+        "iconUrl":"",
+        "entris":[
+            {
+                "type":"Layers",
+                "id":"hyouko",
+                "title":"全球版第2版標高",
+                "url":"http://www.iscgm.org/tiles/global/el/v2/${z}/${x}/${y}.png",
+                "subdomains": "",
+                "attribution": "",
+                "cocotile": false,
+                "legendUrl": null,
+                "html": "<div class=\"gsi_layerinfo_title\">地球地図全球版</div><div class=\"gsi_layerinfo_kaisetu\"><br/>全球版標高は、全世界を覆う1m単位の標高データです。</div><div class=\"gsi_layerinfo_copy\">(c)国土地理院</div>"
+            }
+            "open": false,
+            "toggleall": false
+        ]
+    ]
+}
